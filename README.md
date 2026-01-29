@@ -320,10 +320,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Alliyaa**
+**
 - GitHub: [@alliyaa](https://github.com/alliyaa)
-- LinkedIn: [linkedin.com/in/alliyaa](https://linkedin.com/in/alliyaa)
-- Portfolio: [your-portfolio-site.com]
+- LinkedIn: (https://www.linkedin.com/in/alliyaahmad3200/)
+
 
 ---
 
@@ -339,8 +339,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or opportunities:
 - Open an issue on GitHub
-- Connect on LinkedIn: [linkedin.com/in/alliyaa](https://linkedin.com/in/alliyaa)
+- Connect on LinkedIn: https://www.linkedin.com/in/alliyaahmad3200/
 
----
 
-**Built with ❤️ for secure, production-grade machine learning**
