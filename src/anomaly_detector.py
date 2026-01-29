@@ -267,7 +267,9 @@ class SecureAnomalyDetector:
         ]
         colors = ["#3498db", "#2ecc71", "#e74c3c"]
 
-        bars = ax.bar(metric_names, metric_values, color=colors, edgecolor="black", alpha=0.8)
+        bars = ax.bar(
+            metric_names, metric_values, color=colors, edgecolor="black", alpha=0.8
+        )
         ax.set_ylim([0, 1])
         ax.set_ylabel("Score", fontweight="bold")
         ax.set_title("Model Performance Metrics", fontsize=14, fontweight="bold")
@@ -421,4 +423,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()# Black formatted
+    main()  # Black formatted
